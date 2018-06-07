@@ -1,0 +1,22 @@
+productId = 4
+
+productName = Huawei Mobile
+
+unitPrice = 25000.0
+
+productId = 45
+
+productName = Mum
+
+unitPrice = 25.0
+productId = 1
+product
+Name = Casio Watch
+
+unitPrice = 3000.0
+
+productId = 12
+
+productName = Samsung
+
+unitPrice = 30000.0
