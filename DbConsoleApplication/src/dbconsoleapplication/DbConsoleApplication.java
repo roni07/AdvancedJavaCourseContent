@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 public class DbConsoleApplication {
     
     public DbConsoleApplication() {
-        
+//        Single Product
         Product product = new Product(17, "Walton", 30000);
         System.out.println(product);
         ProductDAO productDao = new DAOImplementation();
